@@ -1,0 +1,40 @@
+
+.navbar-brand img{
+    width: 50px;
+    height: 50px;
+}
+.container-fluid{
+    background-color: #dc3545;
+    
+    height: 80px;
+}
+
+.carousel-item img{
+    height: 85vh;
+}
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+    unicode-bidi: isolate;
+}
+.progress {
+    width: 37vw;
+}
+
+.section2 img {
+    width: 25vw;
+}
+.section3{
+    background-color: rgba(128, 128, 128, 0.158);
+}
+.section3 input{
+    width: 50vh;
+}
+.section5 li{
+    list-style-type: none;
+    cursor: pointer;
+}
+.section5{
+    background-color: rgba(0, 0, 0, 0.836);
+    color: white;
+}
